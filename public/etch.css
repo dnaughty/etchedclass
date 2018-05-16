@@ -1,3 +1,16 @@
-body {
-	background-color: red;
+.container-responsive {
+	background-color: #f49842;
+	text-align: center;
+	color: black;
+}
+
+.calig {
+	font-family: 'Dancing Script', cursive;
+	text-align: center;
+}
+
+#jumbotron {
+	font-family: 'Dancing Script', cursive;
+	text-align: center;
+	background-color: #f49842;
 }
